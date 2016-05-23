@@ -5,3 +5,8 @@ set :port, ENV['PORT']
 get '/' do
   erb :index
 end
+
+get '/read_more' do
+  erb :read_more
+end
+
