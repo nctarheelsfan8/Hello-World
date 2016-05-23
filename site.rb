@@ -1,4 +1,4 @@
-'bundle/setup'
+'require/bundle'
 require 'sinatra'
 ENV['PORT'] ||='4000'
 set :port, ENV['PORT']
