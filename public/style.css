@@ -4,3 +4,12 @@
   margin: 10px;
   text-align: center;
 }
+
+html {
+  background: url('the-img-rul') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
